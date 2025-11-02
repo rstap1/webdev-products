@@ -17,4 +17,25 @@
     "price": 1.1,
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
   }
+  {
+    "id": 4,
+    "name": "Peach",
+    "price": 1.15,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Autumn_Red_peaches.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Coconut",
+    "price": 1.85,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Coconuts_-_single_and_cracked_open.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Strawberry",
+    "price": 0.35,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/FraiseFruitPhoto.jpg"
+  },
+
+  
 ]
+
