@@ -16,7 +16,7 @@
     "name": "Orange",
     "price": 1.1,
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
-  }
+  },
   {
     "id": 4,
     "name": "Peach",
@@ -34,8 +34,7 @@
     "name": "Strawberry",
     "price": 0.35,
     "image": "https://upload.wikimedia.org/wikipedia/commons/d/de/FraiseFruitPhoto.jpg"
-  },
-
-  
+  } 
 ]
+
 
